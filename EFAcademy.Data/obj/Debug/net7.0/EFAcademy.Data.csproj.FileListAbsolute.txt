@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\bin\Debug\net7.0\EFAcademy.Data.deps.json
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\bin\Debug\net7.0\EFAcademy.Data.runtimeconfig.json
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\bin\Debug\net7.0\EFAcademy.Data.dll
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\bin\Debug\net7.0\EFAcademy.Data.pdb
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.dll
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\refint\EFAcademy.Data.dll
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.pdb
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\EFAcademy.Data.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EFAcademy\EFAcademy.Data\obj\Debug\net7.0\ref\EFAcademy.Data.dll
